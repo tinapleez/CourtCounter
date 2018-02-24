@@ -6,5 +6,5 @@ Creative Commons Attribution 3.0 License
 
 Copyright (c) 2018 Tina Taylor
 
-![Screenshot of Court Counter App](/docs/images/courtcounterapp.jpg "Screenshot of Court Counter App width=200")
+![Screenshot of Court Counter App](/docs/images/courtcounterapp.png "Screenshot of Court Counter App width=200")
 
