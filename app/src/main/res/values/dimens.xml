@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_teampadding">4dp</dimen>
+    <dimen name="text_scorepadding">4dp</dimen>
+    <dimen name="button_layoutmargin">24dp</dimen>
+</resources>
